@@ -6,7 +6,7 @@ Testing and trying out pathfinding algorithms.
 1. run "run.py"
 2. enter the name of the map file into the console
 3. left click to move the start, right click to move the finish
-4. press enter to change the algorithm
+4. press space to change the algorithm
 5. press "Esc" to return to the console and enter a different map name
 
 
